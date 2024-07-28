@@ -1,0 +1,422 @@
+/* .cont{
+  padding-bottom:10px;
+  padding-top: 10px;
+  padding-right: 10px;
+  background-color: #ca3508d6;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  width: 50%;
+  flex-wrap: wrap;
+  box-shadow: 30px 30px 10px rgba(254, 0, 0, 0.2);
+}
+.cont > div {
+
+  width: 100px;
+  height: 100px;
+  background-color: rgb(0, 0, 0);
+  margin: 9px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  border-radius: 10px;
+  transition: 0.5s;
+  font-size: 100px;
+}
+.cont > div:hover{
+  background-color: rgba(0, 0, 0, 0.795);
+  cursor: pointer;
+}
+ 
+.cont > div:active{
+  background-color: white;
+  color: black;
+}
+.cont .one{
+  background-color: rgb(0, 0, 0);
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 10;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: 0.5s;
+  opacity: 1s;
+}
+.cont .one:hover{
+  background-color: red;
+}
+.cont .one:active{
+  background-color: white;
+  color: black;
+  opacity: 1s;
+  
+}
+.cont .two{
+  background-color: rgb(0, 0, 0);
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 10;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: 0.5s;
+  opacity: 1s;
+}
+.cont .two:hover{
+  background-color: blue;
+  opacity: 1s;
+}
+.cont .two:active{
+  background-color: white;
+  color: black;
+  opacity: 1s;
+}
+.cont .six{
+  background-color: rgb(0, 0, 0);
+  width: 100px;
+  height: 100px;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  opacity: 10;
+  cursor: pointer;
+  border-radius: 10px;
+  transition: 0.5s;
+  opacity: 1s;
+}
+.cont .six:hover{
+  background-color: rgb(125, 13, 125);
+  opacity: 1s;
+}
+.cont .six:active{
+  background-color: white;
+  color: black;
+  opacity: 1s;
+}
+
+#eye{
+  height: 30px;
+  width: 30px;
+  border: 2px solid;
+  border-radius: 80% 0%;
+  position: relative;
+  transform: rotate(45deg);
+  background-color: red;
+}
+#eye::before{
+  content: "";
+position:absolute;
+  height: 5px;
+  width: 5px;
+  border: 2px solid;
+  border-radius: 50%;
+  top: 10px;
+  left: 10px;
+  background-color: rgb(255, 255, 255);
+}
+
+#eye2{
+  height: 30px;
+  width: 30px;
+  border: 2px solid;
+  border-radius: 80% 0%;
+  position: relative;
+  transform: rotate(45deg);
+  background-color: red;
+}
+#eye2::before{
+  content: "";
+  position:absolute;
+  height: 5px;
+  width: 5px;
+  border: 2px solid;
+  border-radius: 50%;
+  top: 10px;
+  left: 10px;
+  background-color: rgb(255, 255, 255);
+}  */
+
+/* body{
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: rgba(188, 155, 113, 0.809);
+}
+.head{
+  text-align: center;
+  border: 100px;
+  border-color: black;
+  border-radius: 10px;
+  background-color: blanchedalmond;
+  margin-left: 10px;
+}
+.top > div{
+  font-family:'Courier New';
+  font-size: 15px;
+  border: 100px;
+  border-color: black;
+  border-width: 100px;
+  margin-left: 20px;
+  margin: 8px;
+}
+.top{
+
+}
+img{
+  height: 200px;
+  width: 160px;
+  border: solid rgb(136, 106, 34);
+  border-radius: 80% 80px 100px ;
+}
+.inserted{
+color: rgb(33, 33, 233);
+cursor: pointer;
+}
+.skills{
+  
+} */
+
+/* /* .container {
+  display: flex;
+  justify-content: center;
+}
+
+.profile { 
+  display: flex;
+  justify-content: center;
+}
+
+.pic {
+
+  height: 200px;
+  width: 160px;
+}
+
+img  { 
+  height: 200px;
+  width: 160px;
+  border: solid rgb(202, 179, 126);
+  border-radius: 80% 80px 100px ;
+}
+
+.cont{
+  display: flex;
+}
+
+.skill { 
+  font-size: 30px;
+  font-weight: bold;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: rgba(185, 232, 45, 0.638);
+}
+.info { 
+  margin-left: 15px;
+}
+.info .head{
+  font-size: 30px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  padding: 5px;
+  border-radius: 12px;
+  color: #031927;
+}
+.info > div{
+  font-size: 15px;
+  line-height: 20px;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+.power{
+  font-size: 20px;
+}
+.line{
+  margin-left:10px; margin: 6px;
+} */
+
+/* body{
+  background-color: #00ff00af;
+} */
+/* 
+.flag{
+  position: relative;
+  height: 205px;
+  width: 205px;
+  background: rgb(21,22,21);
+  opacity: 1s;
+}
+
+.square{
+  position: absolute;
+  height: 182px;
+  width: 184px;
+  background: rgb(69, 70, 70, 0.868)
+}
+.square2{
+  position: absolute;
+  height: 165px;
+  width: 165px;
+  background: rgba(154, 145, 154, 0.782);
+  
+}
+.square3{
+  position: absolute;
+  height: 145px;
+  width: 145px;
+  background: rgba(70, 63, 60, 0.905);
+}
+.dot2 {
+  position: relative;
+  height: 125px;
+  width: 125px;
+  background: rgba(160, 154, 154, 0.7);
+  transition: background-color 2s ease, transform 2s ease;
+}
+.dot2:hover{
+  cursor: pointer;
+  background-color: red;
+  transform: translateX(19rem);
+}
+  /* animation-name: box2;
+  animation-duration: 1s;
+  animation-iteration-count: infinite; */
+/* @keyframes box2 {
+  50%{background-color: rgb(255, 255, 255);}
+  100%{background-color: rgb(0, 0, 0);}
+  
+} */
+/* .one{
+  position: relative;
+  height: 200px;
+  width: 200px;
+  background: rgb(75, 77, 75);
+  /* animation-name:one;
+  animation-duration: 3s;
+  animation-iteration-count: infinite; */
+/* @keyframes one {
+  100%{background-color: rgb(255, 255, 255);}
+} */
+/* .two{
+  position: absolute;
+  height: 180px;
+  width: 180px;
+  margin-left: 10px;
+  margin-top: 10px;
+  background: rgba(95, 92, 92, 0.945);
+  /* animation-name:two;
+  animation-duration: 4s;
+  animation-iteration-count: infinite; */
+
+/* @keyframes two {
+  100%{background-color: rgb(0, 0, 0);} 
+} */
+/* .three{
+  position: absolute;
+  height: 160px;
+  width: 160px;
+  margin-left: 10px;
+  margin-top: 10px;
+  background: rgba(0, 0, 0, 0.4);
+  /* animation-name:three;
+  animation-duration: 5s;
+  animation-iteration-count: infinite; */
+/* @keyframes three {
+  100%{background-color: rgb(252, 252, 252);} 
+} */
+/* .four{
+  position: absolute;
+  height: 135px;
+  top: 13px;
+  margin-left: 13px;
+  width: 135px;
+  background: rgb(0,0,0,0.2);
+  /* animation-name:four;
+  animation-duration: 6s;
+  animation-iteration-count: infinite; */
+/* @keyframes four {
+  100%{background-color: rgb(0, 0, 0);} 
+} */
+/* .five{
+  position: absolute;
+  height: 110px;
+  width: 110px;
+  top: 13px;
+  margin-left: 12px;
+  background: rgba(0, 0, 0, 0.3);
+  /* animation-name:five;
+  animation-duration: 7s;
+  animation-iteration-count: infinite; */
+/* @keyframes five {
+  100%{background-color: rgb(255, 255, 255);} 
+} */
+ /* .six{
+  position: absolute;
+  height: 90px;
+  width: 90px;
+  top: 10px;
+  margin-left: 10px;
+  background: #32313166;
+  animation-name: yes;
+  animation-duration: 2s;
+  animation-iteration-count: infinite;
+ } */
+/* .sto{
+  height: 103px;
+  width: 250px;
+  background: rgb(0, 0, 0);
+  animation-name:flag;
+  animation-duration: 1.5s;
+  animation-iteration-count: infinite;
+} */
+ /* @keyframes flag {
+  0%{background-color: rgb(219, 244, 0);}
+  25%{background-color: rgb(0, 217, 255);}
+  50%{background-color: rgb(255, 0, 0);}
+  75%{background-color: rgb(8, 0, 255);}
+  100%{background-color: rgb(255, 0, 208);}
+}   */
+/* .stop{
+  height: 104px;
+  width: 250px;
+  position: relative;
+  rotate: 90deg;
+  background: rgb(0, 0, 0);
+  margin-top: 50px;
+  animation-name:flag;
+  animation-duration:1.5s;
+  animation-iteration-count: infinite;
+} */
+
+/* .stop1{
+  height: 103px;
+  width: 250px;
+  position: relative;
+  rotate: 45deg;
+  background: rgb(0, 0, 0);
+} */
+
+/* .stop2{
+  height: 103px;
+  width: 250px;
+  position: relative;
+  rotate: 90deg;
+  background: rgb(0, 0, 0);
+} */
+/* .text{
+  position: relative;
+  bottom: 134px;
+  font-size: 50px;
+  margin-left: 72px;
+  color: rgb(255, 255, 255) ;
+  font-family:'Franklin Gothic large', 'Arial Narrow', Arial, sans-serif ;
+} */
+
+
+
+

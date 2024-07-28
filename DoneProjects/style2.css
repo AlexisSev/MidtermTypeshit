@@ -1,0 +1,399 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+.nav{
+ position:absolute;
+ top: 15px;
+ left: 260px;
+ margin-left: 20px;
+ font-family: "Abel";
+}
+.nav a{
+  text-decoration: none;
+  font-size: 16px;
+  margin-right: 5px;
+}
+.home{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: rgb(255, 255, 255);
+}
+.home:hover{
+  background-color: #ffeca0;
+  color: black;
+}
+.about{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white;
+}
+.about:hover{
+  background-color: #ffeca0;
+  color: black;
+}
+.blog{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white;
+}
+.blog:hover{
+  background-color: #ffeca0;
+  color: black;
+}
+.team{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color:rgb(255, 255, 255);
+}
+.team:hover{
+  background-color: #ffeca0;
+  color: black;
+}
+.contact{
+  padding-left: 10px;
+  padding-right: 10px;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  color: white;
+}
+.contact:hover{
+  background-color: #ffeca0;
+  color: black;
+}
+.bi{
+  position: absolute;
+  font-size: 30px;
+  margin-left: 80px;
+  padding-top: 19px;
+  top: -31px;
+}
+.bi:hover{
+  cursor: pointer;
+ }
+body{
+  background-color: #f6e5d3
+  
+}
+.head{
+  font-size:24px;
+  background: linear-gradient(to right,
+  #305252, #373E40);
+  color: whitesmoke;
+  padding: 8px;
+  width: 769px;
+  font-family:"Paytone One";
+  border: solid #B7D5D4;
+}
+.white{
+  color: white;
+}
+.cont{
+  position: relative;
+  background: linear-gradient(to right,
+  #305252, #373E40);
+  width:785px;
+  height: 383px;
+  border:solid whitesmoke
+}
+.contai2{
+  position: absolute;
+  background-color: #2c2c2b17;
+  height: 250px;
+  width: px;
+  margin-top: 150px;
+  border-top-left-radius: 800px;
+  
+}
+.hed1{
+  margin-left:17%;
+  width: 490px;
+  
+}
+.shadow{
+ background-color: #00000000;
+ position:absolute;
+ width: 160px;
+ height: 230px;
+ border-bottom-left-radius: 50%;
+ top: 34px;
+ margin-left: 345px;
+}
+.starts{
+  position: absolute;
+  margin-left:246px;
+  margin-top: 202px;
+  height:195px;
+  width: 259px;
+  border-top-left-radius: 400%;
+  background-color: #f6d8aa;
+}
+.contai{
+  position: relative;
+  background: linear-gradient(to right,
+  #283044, #78A1BB);
+  width: 780px;
+  height: 560px;
+  border: solid  whitesmoke;
+}
+.contai3{
+  position:relative;
+  height: 30px;
+  width:175px;
+  background: linear-gradient(to right,
+  #4ECDC4, #92DCE5); 
+  left:541px;
+  margin-top:-520px;
+  text-align: center;
+  font-size: 26px;
+  padding: 7px;
+  color: black;
+  font-family: "Red Rose";
+}
+.contain1{
+  position: relative;
+  background: linear-gradient(to right,
+  #33312E, #263D42);
+  margin-top: 35px;
+  width: 220px;
+  height: 500px;
+  margin-left: 525px;
+}
+.pic1{
+  width: 130px;
+  margin-left: 45px;
+  margin-top: 73px;
+}
+.contain{
+  background: linear-gradient(to right,
+  #305252, #373E40);
+  height: 500px;
+  width: 780px;
+  border: solid whitesmoke;
+}
+.know{
+  position: absolute;
+  top: 20px;
+  margin-left:190px;
+  font-family: "Righteous";
+  color: white;
+}
+.wellness{
+  color: whitesmoke;
+  font-size: 15px;
+  position: absolute;
+  margin-left: 190px;
+  top: 60px;
+  line-height: 22px;
+  font-family: "Rhodium Libre";
+}
+.edu{
+  position:absolute;
+  width: 160px;
+  margin-top: 30px;
+  margin-left: 20px;
+}
+.sem{
+  position:absolute;
+  width: 162px;
+  margin-top: 210px;
+  margin-left: 20px;
+}
+.train{
+  color: whitesmoke;
+  position: absolute;
+  top: 210px;
+  margin-left:190px;
+  font-family: "Righteous";
+}
+.training{
+  color: whitesmoke;
+  font-size: 15px;
+  position: absolute;
+  margin-left: 190px;
+  top: 250px;
+  line-height: 21px;
+  font-family: "Rhodium Libre";
+}
+.wee{
+  position: absolute;
+  width: 162px;
+  top: 370px;
+  margin-left: 20px;
+}
+.happi{
+  position:absolute;
+  width: 159px;
+  top: 283px;
+  margin-left: -140px;
+}
+.plus{
+  color: whitesmoke;
+  position: absolute;
+  margin-left: 3px;
+  top: 62px;
+  font-size: 20px;
+  font-family: "Rhodium Libre";
+}
+.www{
+  margin-top: 188px;
+  font-size: 14px;
+  margin-left:7px;
+  color: whitesmoke;
+  font-family: "Rhodium Libre";
+}
+.www2{
+  margin-top: 170px;
+  font-size: 14px;
+  margin-left:8px;
+  color: whitesmoke;
+  font-family: "Rhodium Libre";
+}
+.well{
+  color: whitesmoke;
+  position: absolute;
+  top: 375px;
+  margin-left:190px;
+  font-family: "Righteous";
+}
+.good{
+  color: whitesmoke;
+  font-size: 15px;
+  position: absolute;
+  margin-left: 190px;
+  top: 412px;
+  line-height: 21px;
+  font-family: "Rhodium Libre";
+}
+.hap{
+  position: absolute;
+  top: 270px;
+  font-size: 20px;
+  margin-right:20px;
+  font-family: "Rhodium Libre";
+  color: whitesmoke;
+}
+.trend{
+  width: 115px;
+  height: 40px;
+  margin-top: 252.4px;
+  margin-left: 55px;
+}
+.ltc{
+  font-family: "Rhodium Libre";
+  margin-top: 1px;
+  margin-right: 110px;
+  font-size: 20px;
+  color: whitesmoke;
+}
+.just{
+  position: absolute;
+  background-color: rgb(255, 255, 255);
+  border-radius: 50%;
+  border: 4px solid #BCB29B;
+  width: 285.10px;
+  height: 285.5px;
+  left:25.7px;
+  margin-top: 99.7px;
+  animation-name: pulse;
+  animation-duration:5s;
+  animation-iteration-count: infinite;
+  animation: pulse 5s infinite ease-in-out alternate;
+}
+ @keyframes pulse {
+  from {
+    transform: scale(0.9);
+  }
+  to {
+    transform: scale(1.1);
+  }
+ 
+} 
+.breath{
+  position: absolute;
+  background: linear-gradient(to right,
+  #8EAF9D, #6B7D7D);
+  border-radius: 500%;
+  width:277.9px;
+  height:277.9px;
+  left:33.4px;
+  margin-top: 106.9px;
+}
+.justb{
+  position:absolute;
+  font-family: "Dosis";
+  margin-top:55px;
+  text-align: center;
+  margin-left: 90px;
+  color: whitesmoke;
+  font-size: 50px;
+  font-weight: 10;
+}
+.bret{
+  position:absolute;
+  color: whitesmoke;
+  margin-top:100px;
+  font-size: 73px;
+  text-align: center;
+  margin-left: 11px;
+  font-family: "Abel";
+}
+.line{
+  position:absolute;
+  background-color: #d8d4cef7;
+  height: 3px;
+  width: 210px;
+  margin-top: 190px;
+  margin-left: 40px;
+}
+.all{
+  position:absolute;
+  background: linear-gradient(to right,
+  #8EAF9D, #6B7D7D);
+  color: white;
+  height: 30px;
+  padding-top: 15px;
+  text-align: center;
+  width: 780px;
+  font-weight: 10;
+  font-size: 15px;
+  font-family: "Red Rose";
+  margin-top:500px;
+}
+.the{
+  position:absolute;
+  font-family: "Bebas Neue";
+  margin-left: 350px;
+  margin-top: 130px;
+  font-size: 55px;
+  color: whitesmoke;
+}
+.best{
+  position:absolute;
+  font-family: "Bebas Neue";
+  margin-left: 350px;
+  margin-top: 210px;
+  font-size: 55px;
+  color: whitesmoke;
+}
+.inves{
+  position:absolute;
+  font-family: "Bebas Neue";
+  margin-left: 330px;
+  margin-top: 290px;
+  font-size: 55px;
+  color: whitesmoke;
+}
+.heal{
+  font-family: "Alfa Slab One";
+  font-weight: 100;
+  color: rgb(27, 125, 38);
+}
